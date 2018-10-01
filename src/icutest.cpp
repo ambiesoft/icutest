@@ -3,6 +3,7 @@
 #include <fstream>
 #include <iostream>
 #include <unicode/unistr.h>
+#include <cstring>
 
 using namespace std;
 
